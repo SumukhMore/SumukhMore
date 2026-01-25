@@ -4,5 +4,5 @@
 
 ## 🛠️ Skills & Tools
 - Programming: Python / HTML / CSS
-- Tools: Git, GitHub, Linux
+- Tools: Git, GitHub, Anaconda, Linux
 - Concepts: Data Structures, Problem Solving, Clean Code
